@@ -1,18 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal developer portfolio built with React, love, and coffee. ☕
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a Durham College student interested in building web applications, APIs, and data-driven tools. This portfolio showcases my projects, technical skills, and development journey.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, FastAPI, Node, Express
+- **Database:** PostgreSQL, SQL
+- **Other:** C#, Git, GitHub, java 
 
-## Expanding the Oxlint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **TrackMate** — A web application built with React, FastAPI, and PostgreSQL.
+- **Blog App** — A web development project built with HTML, CSS, and JavaScript.
+- **Hearts Game** — A card game project built with C#.
 
+## Getting Started
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/Manthan420/developer-portfolio.git
+cd developer-portfolio
+npm install
+npm run dev
+```
+
+## Status
+
+Portfolio under development.
