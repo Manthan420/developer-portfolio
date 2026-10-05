@@ -25,7 +25,7 @@ function Navbar() {
               isActive ? "nav-link active" : "nav-link"
             }
           >
-            Skills
+            Technologies
           </NavLink>
 
           <NavLink
