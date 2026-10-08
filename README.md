@@ -11,7 +11,7 @@ I'm a Durham College student interested in building web applications, APIs, and 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Python, FastAPI, Node, Express
 - **Database:** PostgreSQL, SQL
-- **Other:** C#, Git, GitHub, java 
+- **Other:** C#, Git, GitHub, java
 
 ## Featured Projects
 

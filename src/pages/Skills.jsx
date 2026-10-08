@@ -4,39 +4,43 @@ const technologyGroups = [
     technologies: [
       {
         name: "HTML",
-        logo: "/logos/html.svg",
+        logo: "/logos/html.png",
       },
       {
         name: "CSS",
-        logo: "/logos/css.svg",
+        logo: "/logos/css.png",
       },
       {
         name: "JavaScript",
-        logo: "/logos/javascript.svg",
+        logo: "/logos/js.png",
       },
       {
         name: "React",
-        logo: "/logos/react.svg",
+        logo: "/logos/react.png",
       },
       {
         name: "Python",
-        logo: "/logos/python.svg",
+        logo: "/logos/python.png",
       },
       {
         name: "FastAPI",
-        logo: "/logos/fastapi.svg",
+        logo: "/logos/fastApi.png",
       },
       {
         name: "C#",
-        logo: "/logos/csharp.svg",
+        logo: "/logos/c-sharp.png",
       },
       {
         name: "SQL",
-        logo: "/logos/sql.svg",
+        logo: "/logos/sql.png",
       },
       {
-        name: "PostgreSQL",
-        logo: "/logos/postgresql.svg",
+        name: "REST API",
+        logo: "/logos/restAPI.jpg",
+      },    
+      {
+        name: "PostgresSQL",
+        logo: "/logos/postgres.png",
       },
     ],
   },
@@ -45,15 +49,15 @@ const technologyGroups = [
     technologies: [
       {
         name: "Git",
-        logo: "/logos/git.svg",
+        logo: "/logos/git.png",
       },
       {
         name: "GitHub",
-        logo: "/logos/github.svg",
+        logo: "/logos/github.png",
       },
       {
         name: "VS Code",
-        logo: "/logos/vscode.svg",
+        logo: "/logos/vscode.png",
       },
     ],
   },

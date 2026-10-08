@@ -20,10 +20,14 @@ function About() {
             <h2>Who I am</h2>
 
             <p>
-              I enjoy learning how software works and turning ideas into
-              working projects. Through coursework and personal projects,
-              I've been building experience with frontend development,
-              backend APIs, databases, and programming.
+              My interest in software development started when I was a kid.
+              I grew up watching my older brother work as a software developer,
+              which gave me an early look into the world of technology. I would
+              also spend time playing games on his computer, and over time I
+              became curious about how the software behind them actually worked.
+              Working in an IT company became a childhood dream, and I'm now
+              working toward that goal by studying software development and
+              building projects of my own.
             </p>
           </div>
         </article>

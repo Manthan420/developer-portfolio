@@ -41,12 +41,19 @@ function Home() {
           <a href="mailto:YOUR-EMAIL@example.com">
             Email ↗
           </a>
+           <a
+            href="https://www.linkedin.com/in/manthan-jayswal09"
+            target="_blank"
+            rel="noreferrer"
+          >
+            LinkedIn ↗
+        </a>
         </div>
       </div>
 
-      <div className="hero-photo">
-        <span>YOUR PHOTO</span>
-      </div>
+    <div className="hero-photo">
+      <img src="/images/me.jpeg" alt="Manthan Jayswal" />
+    </div>
     </section>
   );
 }
