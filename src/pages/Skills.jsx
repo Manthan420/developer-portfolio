@@ -1,64 +1,44 @@
 const technologyGroups = [
   {
-    title: "Languages & Frameworks",
+    title: "Programming Languages",
     technologies: [
-      {
-        name: "HTML",
-        logo: "/logos/html.png",
-      },
-      {
-        name: "CSS",
-        logo: "/logos/css.png",
-      },
-      {
-        name: "JavaScript",
-        logo: "/logos/js.png",
-      },
-      {
-        name: "React",
-        logo: "/logos/react.png",
-      },
-      {
-        name: "Python",
-        logo: "/logos/python.png",
-      },
-      {
-        name: "FastAPI",
-        logo: "/logos/fastApi.png",
-      },
-      {
-        name: "C#",
-        logo: "/logos/c-sharp.png",
-      },
-      {
-        name: "SQL",
-        logo: "/logos/sql.png",
-      },
-      {
-        name: "REST API",
-        logo: "/logos/restAPI.jpg",
-      },    
-      {
-        name: "PostgresSQL",
-        logo: "/logos/postgres.png",
-      },
+      { name: "JavaScript", logo: "/logos/js.png" },
+      { name: "Python", logo: "/logos/python.png" },
+      { name: "C#", logo: "/logos/c-sharp.png" },
     ],
   },
   {
-    title: "Tools",
+    title: "Frontend Development",
     technologies: [
-      {
-        name: "Git",
-        logo: "/logos/git.png",
-      },
-      {
-        name: "GitHub",
-        logo: "/logos/github.png",
-      },
-      {
-        name: "VS Code",
-        logo: "/logos/vscode.png",
-      },
+      { name: "React", logo: "/logos/react.png" },
+      { name: "HTML5", logo: "/logos/html.png" },
+      { name: "CSS3", logo: "/logos/css.png" },
+    ],
+  },
+  {
+    title: "Backend & APIs",
+    technologies: [
+      { name: "Node.js", logo: "/logos/node-js.png" },
+      { name: "Express.js", logo: "/logos/expressjs.png" },
+      { name: "FastAPI", logo: "/logos/fastApi.png" },
+      { name: "REST APIs", logo: "/logos/restAPI.jpg" },
+    ],
+  },
+  {
+    title: "Databases",
+    technologies: [
+      { name: "PostgreSQL", logo: "/logos/postgres.png" },
+      { name: "Supabase", logo: "/logos/supabase.png" },
+      { name: "SQL", logo: "/logos/sql.png" },
+    ],
+  },
+  {
+    title: "Developer Tools",
+    technologies: [
+      { name: "Git", logo: "/logos/git.png" },
+      { name: "GitHub", logo: "/logos/github.png" },
+      { name: "VS Code", logo: "/logos/vscode.png" },
+      { name: "Postman", logo: "/logos/postman.png" },
     ],
   },
 ];
