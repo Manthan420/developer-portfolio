@@ -29,8 +29,13 @@ function Home() {
             See my projects
           </Link>
 
-          <a href="/resume.pdf" className="btn-secondary" download>
-            Download resume
+          <a
+            href="/Manthan_Jayswal_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="resume-button"
+          >
+            Resume
           </a>
         </div>
 
