@@ -26,7 +26,7 @@ function Home() {
 
         <div className="hero-buttons">
           <Link to="/projects" className="btn-primary">
-            See my projects
+            View my projects
           </Link>
 
           <a

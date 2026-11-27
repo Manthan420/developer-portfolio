@@ -47,9 +47,9 @@ function Navbar() {
           </NavLink>
 
           <a
-            href="/resume.pdf"
+            href="/Manthan_Jayswal_Resume.pdf"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="resume-button"
           >
             Resume
